@@ -1,3 +1,3 @@
 Hello All,
 
-Created a SBI ATM INterface using JAVA FIND the ATTACHED FILE
+Created a BANK ATM INterface using JAVA FIND the ATTACHED FILE
